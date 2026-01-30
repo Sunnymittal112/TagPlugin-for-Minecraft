@@ -1,0 +1,16 @@
+name: TagPlugin
+version: 1.0
+main: net.fetal.tagplugin.TagPlugin
+api-version: 1.21
+authors: [FeTaL]
+description: Simple Tag plugin for Owners to set prefixes for players. 
+
+commands:
+  tag:
+    description: Set Players tag
+    usage: /tag <player> <prefix>
+    permission: tagplugin.admin
+  resettag:
+    description: Deselect Player Tag
+    usage: /resettag <player>
+    permission: tagplugin.admin
