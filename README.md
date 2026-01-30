@@ -36,10 +36,11 @@ To assign the tag "Owner" to the player "FeTaL":
 /tag FeTaL Owner
 ```
 
-##Color Code Reference
+###Color Code Reference
 
 For documentation purposes, the following table explains the internal color codes used by the Minecraft engine:
 Code	Type	Technical Name	Visual Result
+
 ```bash
 &0 - &9	Color	Standard Colors	Defines the text color (e.g., &6 is Gold).
 &a - &f	Color	Light Colors	Lighter variants (e.g., &c is Red).
@@ -48,4 +49,4 @@ Code	Type	Technical Name	Visual Result
 &n	Format	Underline	Adds a line beneath the text.
 &k	Format	Obfuscated	Creates moving/scrambled text.
 &r	Format	Reset	Resets all previous formatting.
-```
+
