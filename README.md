@@ -36,7 +36,7 @@ To assign the tag "Owner" to the player "FeTaL":
 /tag FeTaL Owner
 ```
 
-####Color Code Reference
+##Color Code Reference
 
 For documentation purposes, the following table explains the internal color codes used by the Minecraft engine:
 Code	Type	Technical Name	Visual Result
